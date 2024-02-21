@@ -1,2 +1,2 @@
-# Clone kernel tree (Sea kernel by Asyanx)
-git clone https://github.com/Lromdev/kernel304 kernel/xiaomi/fog
+# Clone kernel tree
+git clone https://github.com/dblenk-project/kernel_xiaomi_fog_header kernel/xiaomi/fog
